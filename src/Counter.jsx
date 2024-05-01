@@ -3,8 +3,6 @@
 export default function Counter() {
   // use state hook
 
-  // create a funtion to increment the count, increment by 1
-
   return (
     <div>
       {/* use state to make the integer dynamic */}
